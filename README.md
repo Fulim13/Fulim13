@@ -1,4 +1,4 @@
-# 🏀 Wong Fu Lim
+# <img src="https://raw.githubusercontent.com/fulim13/fulim13/main/wave.gif" width="30"> Wong Fu Lim
 
 **`Full-Stack Developer`**
 
