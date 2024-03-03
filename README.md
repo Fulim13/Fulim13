@@ -36,4 +36,12 @@ Experienced in crafting dynamic web solutions with a focus on user-centric desig
 <br />
 
 ## 📈 Stat
-![Top Langs](https://github-readme-stats.vercel.app/api?username=fulim13&hide=stars,issues&show_icons=true&theme=onedark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fulim13)
+<br />
+<br />
+![Stats Card](https://github-readme-stats.vercel.app/api?username=fulim13&hide=stars,issues&show_icons=true&theme=onedark)
+<br />
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
