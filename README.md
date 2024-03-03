@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Fulim13/Fulim13/main/wave.gif" width="30"> Wong Fu Lim
+# <img src="https://raw.githubusercontent.com/Fulim13/Fulim13/main/wave.gif" width="30"> Hi, I am Wong Fu Lim
 
 **`Full-Stack Developer`**
 
