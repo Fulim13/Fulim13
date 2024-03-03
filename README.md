@@ -30,7 +30,7 @@ Experienced in crafting dynamic web solutions with a focus on user-centric desig
 <br />
 
 
-## 💻 Website
+## 💻 List of Websites
 [GameHub](https://game-hub-murex-mu.vercel.app/)
 <br />
 <br />
