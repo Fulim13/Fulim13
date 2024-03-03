@@ -30,4 +30,4 @@ Experienced in crafting dynamic web solutions with a focus on user-centric desig
 
 
 ## 📈 Stat
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulim13)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=fulim13&hide=stars,issues&show_icons=true&theme=onedark)
