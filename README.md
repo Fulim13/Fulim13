@@ -41,12 +41,12 @@ Currently Focusing Learning Machine Learning and Deep Learning
 <br />
 
 ## 📈 Stat
-![GitHub Streak](https://streak-stats.demolab.com/?user=fulim13&theme=onedark))
+![GitHub Streak](https://streak-stats.demolab.com/?user=fulim13&theme=onedark)
 <br />
 <br />
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=fulim13&hide=stars,issues&show_icons=true&theme=onedark)
 <br />
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)
 
 
