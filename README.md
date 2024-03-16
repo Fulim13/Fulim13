@@ -4,6 +4,8 @@
 
 Experienced in crafting dynamic web solutions with a focus on user-centric design and seamless functionality. Proficient in utilizing the Django framework for robust backend development and React/Next.js for dynamic frontend experiences. Committed to staying updated with the latest technologies and best practices in web development to deliver innovative and cutting-edge solutions.
 
+Currently Focusing Learning Machine Learning and Deep Learning
+
 ## 📚 Languages and Tools (Arranged in the order of learning)
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
