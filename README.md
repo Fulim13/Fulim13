@@ -46,6 +46,9 @@ Currently Focusing Learning Machine Learning and Deep Learning
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=fulim13&hide=stars,issues&show_icons=true&theme=onedark)
 <br />
 <br />
+![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fulim13&theme=onedark&utcOffset=+8)
+<br />
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)
 
 
