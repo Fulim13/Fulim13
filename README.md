@@ -2,9 +2,9 @@
 
 **`Full-Stack Developer`**
 
-Experienced in crafting dynamic web solutions with a focus on user-centric design and seamless functionality. Proficient in utilizing the Django framework for robust backend development and React/Next.js for dynamic frontend experiences. Committed to staying updated with the latest technologies and best practices in web development to deliver innovative and cutting-edge solutions.
+Experienced in creating dynamic web solutions with a focus on user-friendly design and smooth functionality. I specialize in backend development using Django and frontend development with React/Next.js.
 
-Currently Focusing Learning Machine Learning and Deep Learning
+Currently Focusing Learning Machine Learning and Deep Learning.
 
 ## 📚 Languages and Tools (Arranged in the order of learning)
 
@@ -22,7 +22,6 @@ Currently Focusing Learning Machine Learning and Deep Learning
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Jetpack Compose" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" />
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Dot Net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /> 
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -35,6 +34,7 @@ Currently Focusing Learning Machine Learning and Deep Learning
 
 
 ## 💻 List of Websites
+[Speed Net](https://snet.surge.sh/)
 [GameHub](https://game-hub-murex-mu.vercel.app/)
 <br />
 <br />
