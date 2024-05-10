@@ -37,6 +37,9 @@ Currently Focusing Learning Machine Learning and Deep Learning.
 [Speed Net](https://snet.surge.sh/)
 
 [GameHub](https://game-hub-murex-mu.vercel.app/)
+
+[Neural Network Recommender](https://neuralnetworkrecommender-6m92betxexdzwcco3tk632.streamlit.app/)
+
 <br />
 <br />
 
