@@ -38,7 +38,7 @@ Currently Focusing Learning Machine Learning and Deep Learning.
 
 [GameHub](https://game-hub-murex-mu.vercel.app/)
 
-[Neural Network Recommender](https://neuralnetworkrecommender.streamlit.app/)
+[Neural Network Recommender](https://nnrecommender.streamlit.app/)
 <br />
 <br />
 
