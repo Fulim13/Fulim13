@@ -1,51 +1,93 @@
-# <img src="https://raw.githubusercontent.com/Fulim13/Fulim13/main/wave.gif" width="30"> Hi, I am Wong Fu Lim
+<h1>
+  <img src="https://raw.githubusercontent.com/Fulim13/Fulim13/main/wave.gif" width="30"> Hi, I'm Fu Lim ⛹️
+</h1>
 
-**`Full-Stack Developer`**
+<p>
+  <code>Full-Stack Developer</code>
+</p>
 
-Experienced in creating dynamic web solutions with a focus on user-friendly design and smooth functionality. I specialize in backend development using Django and frontend development with React/Next.js.
+<p>
+  📨 To reach me: <a href='mailto:programmingwong@gmail.com'>programmingwong@gmail.com</a>
+</p>
 
-Currently Focusing Learning Machine Learning and Deep Learning.
+<p>
+  <img src="https://streak-stats.demolab.com/?user=fulim13&theme=onedark" width="400"></a>
+</p>
 
-## 📚 Languages and Tools (Arranged in the order of learning)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fulim13&hide=stars,issues&show_icons=true&theme=onedark" width="400">
+</p>
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Dot Net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /> 
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<hr/>
 
+<h1>
+  💻 My workspace
+</h1>
+<div>
+  <img src="https://img.shields.io/badge/windows_wsl-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /> &nbsp; &nbsp; 
+  <img alt="Static Badge" src="https://img.shields.io/badge/AMD-Ryzen_7_4800H-%2523ED1C24?style=for-the-badge&logo=amd&logoColor=white&color=ED1C24"> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /> &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/nvidia-gtx%201660%20Ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</div>
 
+<hr/>
 
-<br />
-<br />
-<br />
+<h1>⭐ Hobby</h1>
+<ol>
+  <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fhappylim30%2Fstats&query=chess_rapid.last.rating&style=for-the-badge&label=Chess%20rating"></li>
+  <li>Basketball 🏀 </li>
+  <li>Badminton 🏸</li>
+</ol>
 
+<hr/>
 
-## 💻 List of Websites
-[Speed Net](https://snet.surge.sh/)
+<h1>🧑‍🎓 Education</h1>
 
-[GameHub](https://game-hub-murex-mu.vercel.app/)
+> - ***2023 ~ Present*** | *Bachelor of Software Engineering (TAR UMT) | CGPA: 3.9107*
+> - ***2020 ~ 2022*** &nbsp; &nbsp; | *Diploma in Computer Science (TAR UMT) &nbsp;  &nbsp; &nbsp; | CGPA: 3.9687*
 
-[Neural Network Recommender](https://nnrecommender.streamlit.app/)
-<br />
-<br />
+<hr/>
 
-## 📈 Stat
-![GitHub Streak](https://streak-stats.demolab.com/?user=fulim13&theme=onedark)
-<br />
-<br />
-![Stats Card](https://github-readme-stats.vercel.app/api?username=fulim13&hide=stars,issues&show_icons=true&theme=onedark)
+<h1>💼 Experience</h1>
 
+> - ***2022 OCT ~ 2023 JAN*** | Web Developer Intern | Enlliance Management Sdn. Bhd. 
 
+<hr/>
+
+<h1>📚 Languages and Tools </h1>
+<h2>💻 Web Development</h2>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+<h2>🔬 Data Science</h2>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+<!--
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+-->
+
+<hr/>
+
+<h1>🅿️ Portfolio </h1>
+
+| Name                 | A short summary                              |
+| -------------------- | -------------------------------------------- |
+| [GameHub](https://game-hub-murex-mu.vercel.app/) | Game Finder  |
+| [Neural Network Recommender](https://nnrecommender.streamlit.app/)| Movie Recommender  |
+| [Speed Net](https://snet.surge.sh/)| Simple HTML, CSS, JS Website |
