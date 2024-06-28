@@ -30,6 +30,21 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201660%20Ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 
+<h1>
+  🔨 Development Environment
+</h1>
+
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter_Note-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)
+![DataGrip Badge](https://img.shields.io/badge/DataGrip-000?logo=datagrip&logoColor=fff&style=for-the-badge)
+![GitKraken Badge](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=for-the-badge)
+![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge)
+![Windows Terminal Badge](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=fff&style=for-the-badge)
+![Zsh Badge](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=for-the-badge)
+<!--
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+-->
+
 <hr/>
 
 <h1>⭐ Hobby</h1>
@@ -68,7 +83,7 @@
 
 <hr/>
 
-<h1>📚 Languages and Tools </h1>
+<h1>📚 Languages and Frameworks </h1>
 
 <h2>💻 Programming Language</h2>
 
@@ -95,7 +110,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 -->
 
-<h2>🔬 Data Science</h2>
+<h2>🔬 Data Science & Machine Learning & Deep Learning</h2>
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
