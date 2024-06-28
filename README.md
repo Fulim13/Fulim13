@@ -34,7 +34,7 @@
 
 <h1>⭐ Hobby</h1>
 <ol>
-  <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fhappylim30%2Fstats&query=chess_rapid.last.rating&style=for-the-badge&label=Chess%20rating"></li>
+  <li><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fhappylim30%2Fstats&query=chess_rapid.last.rating&style=for-the-badge&label=Chess%20rating"></li>
   <li>Basketball 🏀 </li>
   <li>Badminton 🏸</li>
 </ol>
