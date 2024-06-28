@@ -43,14 +43,28 @@
 
 <h1>🧑‍🎓 Education</h1>
 
-> - ***2023 ~ Present*** | *Bachelor of Software Engineering (TAR UMT) | CGPA: 3.9107*
-> - ***2020 ~ 2022*** &nbsp; &nbsp; | *Diploma in Computer Science (TAR UMT) &nbsp;  &nbsp; &nbsp; | CGPA: 3.9687*
+- 📖 **Bachelor of Software Engineering**\
+📆 2023 ~ Present \
+🔢 CGPA: 3.9107\
+📍 Tunku Abdul Rahman University of Management and Technology (TAR UMT)
+
+
+- 📖 **Diploma in Computer Science**\
+📆 2020 ~ 2022 \
+🔢 CGPA: 3.9687\
+📍 Tunku Abdul Rahman University of Management and Technology (TAR UMT)
+
 
 <hr/>
 
 <h1>💼 Experience</h1>
 
-> - ***2022 OCT ~ 2023 JAN*** | Web Developer Intern | Enlliance Management Sdn. Bhd. 
+<img align="right" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="right" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+
+- 👨‍💻 **Web Developer Intern**\
+📆 2022 OCT ~ 2023 JAN\
+📍 Enlliance Management Sdn. Bhd.
 
 <hr/>
 
