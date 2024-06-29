@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/Fulim13/Fulim13/main/wave.gif" width="30"> Hi, I'm Fu Lim ⛹️
+  <img src="https://raw.githubusercontent.com/Fulim13/Fulim13/main/wave.gif" width="30"> Hi, I'm Fu Lim 👨‍💻
 </h1>
 
 <p>
