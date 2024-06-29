@@ -61,7 +61,7 @@
 
 - 📖 **Bachelor of Software Engineering**\
 📆 2023 ~ Present \
-🔢 CGPA: 3.9107\
+🔢 CGPA: 3.9218\
 📍 Tunku Abdul Rahman University of Management and Technology (TAR UMT)
 
 
