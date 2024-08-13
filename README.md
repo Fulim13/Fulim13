@@ -35,15 +35,12 @@
 </h1>
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter_NoteBook-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)
-![DataGrip Badge](https://img.shields.io/badge/DataGrip-000?logo=datagrip&logoColor=fff&style=for-the-badge)
-![GitKraken Badge](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=for-the-badge)
-![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Windows Terminal Badge](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=fff&style=for-the-badge)
 ![Zsh Badge](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=for-the-badge)
-<!--
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
--->
+![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter_NoteBook-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)
+![DataGrip Badge](https://img.shields.io/badge/DataGrip-000?logo=datagrip&logoColor=fff&style=for-the-badge)
 
 <hr/>
 
