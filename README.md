@@ -101,42 +101,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 -->
 
-<hr/>
-
-<h1>🧑‍🎓 Education</h1>
-
-- 📖 **Bachelor of Software Engineering**\
-📆 2023 ~ Present \
-📍 Tunku Abdul Rahman University of Management and Technology (TAR UMT)\
-🔢 CGPA: 3.9218
-
-
-
-- 📖 **Diploma in Computer Science**\
-📆 2020 ~ 2022 \
-📍 Tunku Abdul Rahman University of Management and Technology (TAR UMT)\
-🔢 CGPA: 3.8734
-
-<hr/>
-
-<h1>💼 Experience</h1>
-
-<img align="right" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-
-- 👨‍💻 **Web Developer Intern**\
-📆 2021 OCT ~ 2022 JAN\
-📍 Enlliance Management Sdn. Bhd.
-
-
-<hr/>
-
-<h1>⭐ Hobby</h1>
-<ol>
-  <li><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fhappylim30%2Fstats&query=chess_rapid.last.rating&style=for-the-badge&label=Chess%20rating"></li>
-  <li>Basketball 🏀 </li>
-  <li>Badminton 🏸</li>
-</ol>
 
 
 
