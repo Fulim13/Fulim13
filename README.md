@@ -50,10 +50,54 @@
 | --------------------                                                | -------------------------------------------- |------------------|
 | [GameHub](https://game-hub-murex-mu.vercel.app/)                    | Game Finder                                  | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chakra UI Badge](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=fff&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query Badge](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=for-the-badge) ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
 | [StayScape](https://github.com/Fulim13/Web_Dev_Assignment)                                 | Property Renting Website                        | ![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge) ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge) ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge) ![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge)
+| [StoryTeller](https://github.com/Fulim13/Storyteller)                | Story Generation |     ![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 | [TenantTrove](https://github.com/Fulim13/MAD-Assignment-)                                 | Property Renting Mobile Application                        | ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Firebase Badge](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=for-the-badge)
 | [Neural Network Recommender](https://nnrecommender.streamlit.app/)  | Movie Recommender                            | ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=for-the-badge)
 | [Programme Management System - HashMap](https://github.com/Fulim13/Data_Structure_Algo)  | Programme Management System(HashMap)                         | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+| [FFN Classify MNIST](https://github.com/Fulim13/FFN-Classify-MNIST)  | Feed Forward Network to Classify Digits | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+| [FOCS Chatbot](https://github.com/Fulim13/FOCS-Chatbot)              | Chatbot about TARUMT FOCS  | ![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+| [Expense Tracker](https://github.com/Fulim13/expense_tracker)        |  Expense Tracker  | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chakra UI Badge]
 | [Speed Net](https://snet.surge.sh/)                                 | Internet Landing Page                        | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<hr/>
+
+<h1>🧑‍🎓 Learning Hub </h1>
+
+- [Docker](https://github.com/Fulim13/docker)
+
+## AI Learning
+- [Pytorch Leraning](https://github.com/Fulim13/Pytorch_Learning)
+- [HuggingFace](https://github.com/Fulim13/HuggingFace)
+- [Langchain](https://github.com/Fulim13/Langchain)
+- [ML Stack Tools](https://github.com/Fulim13/ML_Stack_Tools)
+- [NLP Learning](https://github.com/Fulim13/NLP_Learning)
+- [NN from Scratch](https://github.com/Fulim13/NN_From_Scratch)
+- [AI Practical](https://github.com/Fulim13/AI_Practical)
+- [Pretrain, Finetune, RLHF](https://github.com/Fulim13/Pretrain_Finetune_RLHF)
+
+## Other Learning
+- [DSA](https://github.com/Fulim13/DSA-SampleCode-Practical-)
+- [OpenGL](https://github.com/Fulim13/OpenGL_Learn)
+- [Parallel Computing](https://github.com/Fulim13/Parallel-Computing-Learning)
+
+## Language Learning
+- [Python Learning](https://github.com/Fulim13/PythonLearning)
+- [JS Learning](https://github.com/Fulim13/JSLearning)
+- [Go Learning](https://github.com/Fulim13/GoLearn)
+- [C++ Learning](https://github.com/Fulim13/CPP_Learning)
+- [Dart Learning](https://github.com/Fulim13/DartLearning)
+
+## Android Development
+- [Android Learn](https://github.com/Fulim13/Android_Learn)
+- [Kotlin Compose Project](https://github.com/Fulim13/kotlin-compose-project)
+
+## Web Development
+- [React TypeScript](https://github.com/Fulim13/react_typescript)
+- [React Query](https://github.com/Fulim13/react-query)
+- [React Django Auth Frontend](https://github.com/Fulim13/react_django_auth_frontend)
+- [React Django Auth Backend](https://github.com/Fulim13/react_django_auth_backend)
+- [ASP.NET Practical](https://github.com/Fulim13/AspNet_Practical)
+
 
 <hr/>
 
