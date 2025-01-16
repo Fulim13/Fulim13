@@ -10,8 +10,8 @@
   📨 To reach me: <a href='mailto:programmingwong@gmail.com'>fulim1130@gmail.com</a>
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=fulim13&theme=onedark" width="400"></a>
+<p> 
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=fulim13&count_private=true&theme=onedark" width="400"></a>
 </p>
 
 <p>
