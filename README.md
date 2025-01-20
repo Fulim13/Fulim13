@@ -94,8 +94,6 @@
 ## Web Development
 - [React TypeScript](https://github.com/Fulim13/react_typescript)
 - [React Query](https://github.com/Fulim13/react-query)
-- [React Django Auth Frontend](https://github.com/Fulim13/react_django_auth_frontend)
-- [React Django Auth Backend](https://github.com/Fulim13/react_django_auth_backend)
 - [ASP.NET Practical](https://github.com/Fulim13/AspNet_Practical)
 
 
