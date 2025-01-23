@@ -82,7 +82,6 @@
 
 ## Language Learning
 - [Python Learning](https://github.com/Fulim13/PythonLearning)
-- [JS Learning](https://github.com/Fulim13/JSLearning)
 - [Go Learning](https://github.com/Fulim13/GoLearn)
 - [C++ Learning](https://github.com/Fulim13/CPP_Learning)
 - [Dart Learning](https://github.com/Fulim13/DartLearning)
