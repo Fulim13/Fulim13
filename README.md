@@ -88,7 +88,7 @@
 
 ## Android Development
 - [Android Learn](https://github.com/Fulim13/Android-Kotlin-Learn)
-- [Kotlin Compose Project](https://github.com/Fulim13/kotlin-compose-project)
+- [Kotlin Compose Learn](https://github.com/Fulim13/Kotlin-Compose-Learn)
 
 ## Web Development
 - [React TypeScript](https://github.com/Fulim13/react_typescript)
