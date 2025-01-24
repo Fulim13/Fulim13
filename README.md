@@ -75,15 +75,15 @@
 - [Pretrain, Finetune, RLHF](https://github.com/Fulim13/Pretrain_Finetune_RLHF_Learn)
 
 ## Other Learning
+- [Parallel Computing](https://github.com/Fulim13/Parallel-Computing-Learn)
 - [Data Structure Algo](https://github.com/Fulim13/Data-Structure-Algo-Learn)
 - [OpenGL](https://github.com/Fulim13/OpenGL-Learn)
-- [Parallel Computing](https://github.com/Fulim13/Parallel-Computing-Learn)
 
 ## Language Learning
 - [Python Learning](https://github.com/Fulim13/Python-Learn)
 - [Go Learning](https://github.com/Fulim13/Go-Learn)
 - [C++ Learning](https://github.com/Fulim13/CPP-Learn)
-- [Dart Learning](https://github.com/Fulim13/Dart-Learning)
+- [Dart Learning](https://github.com/Fulim13/Dart-Learn)
 
 ## Android Development
 - [Android Learn](https://github.com/Fulim13/Android-Kotlin-Learn)
