@@ -56,7 +56,7 @@
 | [Programme Management System - HashMap](https://github.com/Fulim13/School-Management-System-with-Data-Structures)  | Programme Management System(HashMap)                         | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 | [FFN Classify MNIST](https://github.com/Fulim13/FFN-Classify-MNIST)  | Feed Forward Network to Classify Digits | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 | [FOCS Chatbot and OCR Result Checking](https://github.com/Fulim13/FOCS-Chatbot)              | Chatbot for TARUMT FOCS and OCR for checking SPM result  | ![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-| [Robot Open GL](https://github.com/Fulim13/OpenGL-Learn)              | Robot  | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+| [Robot Open GL](https://github.com/Fulim13/Robot-OpenGL)              | Robot  | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 <hr/>
 
