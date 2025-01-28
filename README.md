@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/Fulim13/Fulim13/main/wave.gif" width="30"> Hi, I'm Fu Lim 👨‍💻
 </h1>
 
+![](https://komarev.com/ghpvc/?username=fulim13&color=brightgreen)
+
+
 <p>
   <code>Full-Stack Developer</code>
 </p>
