@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  Area of Interest: Deep Learning, Math, Algorithms
+  Area of Interest: <code>Deep Learning</code>, <code>Math</code>, <code>Algorithms</code>
 </p>
 
 <p> 
