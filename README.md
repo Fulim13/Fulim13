@@ -21,10 +21,6 @@
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=fulim13&count_private=true&theme=onedark" width="400"></a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fulim13&hide=stars,issues&show_icons=true&theme=onedark" width="400">
-</p>
-
 <hr/>
 
 <h1>
