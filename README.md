@@ -2,12 +2,10 @@
   <img src="https://raw.githubusercontent.com/Fulim13/Fulim13/main/wave.gif" width="30"> Hi, I'm Fu Lim 👨‍💻
 </h1>
 
-<p>
-  📨 To reach me: fulim1130@gmail.com
-</p>
-
-<p>
-  Area of Interest: <code>Concurrency</code>, <code>Database</code>, <code>Algorithms</code>
+<p> 
+  <a href="https://www.credly.com/badges/24c363ee-e2d3-4daf-8961-ce8bc713c04a/public_url">
+    <img src="ttps://raw.githubusercontent.com/Fulim13/Fulim13/main/aws-certified-solutions-architect-associate.png" >
+  </a>
 </p>
 
 <p> 
